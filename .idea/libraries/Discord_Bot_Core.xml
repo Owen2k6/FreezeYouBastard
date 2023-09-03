@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Discord-Bot-Core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/Discord-Bot-Core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

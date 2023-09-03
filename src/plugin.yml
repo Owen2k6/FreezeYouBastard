@@ -1,0 +1,17 @@
+name: FreezeYouBastard
+main: com.owen2k6.fyb.FreezeYouBastard
+version: 0.1A
+author: Owen2k6
+
+commands:
+  freeze:
+    description: Freeze a player
+    usage: /<command> <Player>
+    aliases: [frz]
+    permission: fyb.freeze
+    permission-message: Shut the fuck up. No freezing allowed for you
+
+permissions:
+    fyb.freeze:
+        description: enables the torture plugin commands for your convenience.
+        default: op

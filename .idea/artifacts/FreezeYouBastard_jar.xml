@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FreezeYouBastard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FreezeYouBastard_jar</output-path>
+    <root id="archive" name="FreezeYouBastard.jar">
+      <element id="module-output" name="FreezeYouBastard" />
+    </root>
+  </artifact>
+</component>

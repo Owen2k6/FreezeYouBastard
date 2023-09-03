@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BlockAlert">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/BlockAlert.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

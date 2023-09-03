@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GoplexMC Plugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/GoplexMC Plugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
