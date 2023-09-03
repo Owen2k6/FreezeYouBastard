@@ -9,7 +9,7 @@ commands:
     usage: /<command> <Player>
     aliases: [frz]
     permission: fyb.freeze
-    permission-message: Shut the fuck up. No freezing allowed for you
+    permission-message: You are not allowed to do this.
 
 permissions:
     fyb.freeze:
